@@ -3,7 +3,7 @@
     "Id":1,
     "SellRent":1,
     "Name":"Birla House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop1"
   },
@@ -11,7 +11,7 @@
     "Id":2,
     "SellRent":2,
     "Name":"Taj House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop2"
   },
@@ -19,7 +19,7 @@
     "Id":3,
     "SellRent":1,
     "Name":"Tata House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop3"
   },
@@ -27,7 +27,7 @@
     "Id":4,
     "SellRent":2,
     "Name":"Ambani House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop4"
   },
@@ -35,7 +35,7 @@
     "Id":5,
     "SellRent":1,
     "Name":"Royal House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop5"
   },
@@ -43,7 +43,7 @@
     "Id":6,
     "SellRent":2,
     "Name":"White House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop6"
   },
@@ -51,7 +51,7 @@
     "Id":7,
     "SellRent":1,
     "Name":"Birla House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop7"
   },
@@ -59,7 +59,7 @@
     "Id":8,
     "SellRent":2,
     "Name":"White House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop8"
   },
@@ -67,7 +67,7 @@
     "Id":5,
     "SellRent":1,
     "Name":"Royal House",
-    "Type":"House",
+    "PType":"House",
     "Price":20000,
     "Image":"prop9"
   }
