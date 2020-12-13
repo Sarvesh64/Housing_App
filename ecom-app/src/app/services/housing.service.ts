@@ -33,7 +33,7 @@ export class HousingService {
 
   addProperty(property: Property) {
     let newProp = [property];
-
+ 
     // Add new property in array if newProp alreay exists in local storage
     if (localStorage.getItem('newProp')) {
       newProp = [property,
