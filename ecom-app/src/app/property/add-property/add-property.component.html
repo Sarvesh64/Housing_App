@@ -96,7 +96,6 @@
                   formControlName="City"
                   [(ngModel)]="propertyView.City">
                     <option value=''>--Select City--</option>
-                    <option>Mumbai</option>
                     <option *ngFor="let city of cityList" value={{city.id}}>
                       {{city.name}}
                     </option>
